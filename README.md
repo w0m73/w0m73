@@ -26,44 +26,29 @@
 
 ## 🧠 Terminal Output: /dev/brain
 
-Analista com experiência em ambientes OT/ICS e IT, atuando na triagem e investigação inicial de alertas de segurança.
-Atuação focada em análise de tráfego de rede e comportamento de dispositivos industriais, com suporte a resposta inicial a incidentes em ambientes monitorados.
-Exposição a plataformas de monitoramento industrial como Nozomi e Claroty.
+Analista com experiência em triagem e investigação inicial de alertas em ambientes OT/ICS e IT.
 
 ---
 
 ## 🛠️ The Deck
 
-- **OS:** Debian (Minimalist Linux / Daily Use)
-
-- **Tools:**
-  - Nozomi / Claroty (OT monitoring and alert analysis)
-  - Splunk (log analysis and correlation)
-  - Wireshark (network traffic inspection)
+- Debian (Daily use)
+- Nozomi / Claroty (OT monitoring and alert analysis)
+- Splunk (log analysis and correlation)
+- Wireshark (network traffic inspection)
   
-- **Detection Engineering (Foundational):**
-  Em fase de desenvolvimento em Detection Engineering, com foco em:
+---
 
-  - Criação e entendimento de regras SIGMA
-  - Análise de logs e eventos em ambientes SIEM
-  - Mapeamento de técnicas e comportamentos com MITRE ATT&CK
-  - Estudo de validação de alertas com base em contexto e impacto
+## 🧪 Focus Areas
+
+- Detection Engineering (SIGMA, MITRE ATT&CK)
+- SIEM-based log analysis and correlation
+- IT, OT/ICS network monitoring
 
 ---
 
- ### 🧪 Detection Lab (In Progress)
-
-Prática em ambiente simulado com foco em:
-
-- Análise de eventos de autenticação e rede em cenários de ataque
-- Identificação de padrões suspeitos em logs
-- Priorização de alertas com base na gravidade, contexto e impacto potencial ao ambiente
-- Mapeamento de atividades simuladas para MITRE ATT&CK
-
----
-  
-## 🎯 Focus
-SOC Analyst | Blue Team | OT/ICS & IT Security
+## 🎯 Goal
+SOC Analyst | Blue Team | OT/ICS & IT Security | Detection Engineering
 
 ---
 
