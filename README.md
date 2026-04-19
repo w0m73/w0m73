@@ -41,7 +41,7 @@ Foco em telemetria resiliente, infraestrutura hardened e engenharia de detecçã
 
 ## 🌐 Connectivity
 
-- **Web:** https://xdrtwo.github.io/whoami/
+- **Web:** [https://xdrtwo.github.io/whoami/](https://w0m73.github.io/whoami/)
 - **Focus:** SOC Analyst | OT/ICS & IT Defense
 
 ---
