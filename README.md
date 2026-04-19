@@ -37,10 +37,10 @@ Exposição a plataformas de monitoramento industrial como Nozomi e Claroty.
 - **OS:** Debian (Minimalist Linux / Daily Use)
 
 - **Tools:**
-- Splunk (log analysis and correlation)
-- Wireshark (network traffic inspection)
-- Nmap (network discovery and enumeration)
-- Nozomi / Claroty (OT monitoring and alert analysis)
+  - Splunk (log analysis and correlation)
+  - Wireshark (network traffic inspection)
+  - Nmap (network discovery and enumeration)
+  - Nozomi / Claroty (OT monitoring and alert analysis)
 
 - **Detection Engineering (Foundational):**
   Em fase de desenvolvimento em Detection Engineering, com foco em:
