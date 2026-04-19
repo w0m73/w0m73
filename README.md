@@ -48,7 +48,7 @@ Analista com experiência em triagem e investigação inicial de alertas em ambi
 ---
 
 ## 🎯 Goal
-SOC Analyst | Blue Team | OT/ICS & IT Security | Detection Engineering
+SOC Analyst | Blue Team | OT/ICS & IT Security
 
 ---
 
