@@ -24,10 +24,11 @@
 
 ---
 
-## 🧠 Terminal Output: `/dev/brain`
+## 🧠 Terminal Output: /dev/brain
 
-Operando na fronteira entre SIEM e IA.  
-Foco em telemetria resiliente, infraestrutura hardened e engenharia de detecção baseada em SIGMA.
+Analista com experiência em ambientes OT/ICS e IT, atuando na triagem e investigação inicial de alertas de segurança.
+Atuação focada em análise de tráfego de rede e comportamento de dispositivos industriais, com suporte a resposta inicial a incidentes em ambientes monitorados.
+Exposição a plataformas de monitoramento industrial como Nozomi e Claroty.
 
 ---
 
@@ -36,22 +37,40 @@ Foco em telemetria resiliente, infraestrutura hardened e engenharia de detecçã
 - **OS:** Debian (Minimalist Linux / Daily Use)
 
 - **Tools:**
-  Splunk · Wireshark · Nmap · Claroty · Nozomi
+- Splunk (log analysis and correlation)
+- Wireshark (network traffic inspection)
+- Nmap (network discovery and enumeration)
+- Nozomi / Claroty (OT monitoring and alert analysis)
 
 - **Detection Engineering (Foundational):**
-  - Studying SIGMA rule creation and detection patterns
-  - Mapping adversary behavior using MITRE ATT&CK
-  - Exploring OSSEM data models for log normalization
-  - Understanding defensive strategies through D3FEND
+  Em fase de desenvolvimento em Detection Engineering, com foco em:
 
-- **Focus:**
-  SOC Analyst | Blue Team | OT/ICS & IT Defense
+  - Criação e entendimento de regras SIGMA
+  - Análise de logs e eventos em ambientes SIEM
+  - Mapeamento de técnicas e comportamentos com MITRE ATT&CK
+  - Estudo de validação de alertas com base em contexto e impacto
+
+---
+
+ ### 🧪 Detection Lab (In Progress)
+
+Prática em ambiente simulado com foco em:
+
+- Análise de eventos de autenticação e rede em cenários de ataque
+- Identificação de padrões suspeitos em logs
+- Priorização de alertas com base na gravidade, contexto e impacto potencial ao ambiente
+- Mapeamento de atividades simuladas para MITRE ATT&CK
+
+---
+  
+## 🎯 Focus
+SOC Analyst | Blue Team | OT/ICS & IT Security
 
 ---
 
 ## 🌐 Connectivity
 
-- **Web:** [https://xdrtwo.github.io/whoami/](https://w0m73.github.io/whoami/)
+- **Web:** [w0m73.github.io/whoami/](https://w0m73.github.io/whoami/)
 
 ---
 
