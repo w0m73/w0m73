@@ -1,13 +1,3 @@
-[    0.000000] Linux version 6.1.0-deb12-amd64<br>
-[    0.000124] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable<br>
-[    0.450912] input: Ghost Mode Keyboard as /devices/virtual/input/input0<br>
-[    0.892134] usb 1-1: New USB device found, idVendor=0x77, idProduct=0x30<br>
-[    1.120455] systemd[1]: Mounting /mnt/blue_team_field_notes...<br>
-[    1.450982] systemd[1]: Starting Detection Engine Service...<br>
-[    1.890122] [ OK ] Started SIGMA Rule Parser.<br>
-[    2.100451] [ OK ] Established connectivity to The Sprawl.<br>
-[    2.340912] [ WARN ] Intrusion detection active. Stay sharp.
-
 # [ ACCESSING NODE: 0x770x30 ]
 # IDENTITY: SECURITY ANALYST / DETECTION ENGINEER (Em formação)
 # STATUS: GHOST_MODE
