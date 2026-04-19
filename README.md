@@ -1,3 +1,4 @@
+```text
 [    0.000000] Linux version 6.1.0-deb12-amd64
 [    0.000124] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
 [    0.450912] input: Ghost Mode Keyboard as /devices/virtual/input/input0
