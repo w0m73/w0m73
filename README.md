@@ -33,16 +33,25 @@ Foco em telemetria resiliente, infraestrutura hardened e engenharia de detecçã
 
 ## 🛠️ The Deck
 
-- **OS:** Debian (Advanced User / Minimalist Linux)
-- **Tools:** Splunk, Wireshark, Claroty, Nozomi, Nmap
-- **Detection Logic:** SIGMA v2, OSSEM, MITRE ATT&CK, D3FEND
+- **OS:** Debian (Minimalist Linux / Daily Use)
+
+- **Tools:**
+  Splunk · Wireshark · Nmap · Claroty · Nozomi
+
+- **Detection Engineering (Foundational):**
+  - Studying SIGMA rule creation and detection patterns
+  - Mapping adversary behavior using MITRE ATT&CK
+  - Exploring OSSEM data models for log normalization
+  - Understanding defensive strategies through D3FEND
+
+- **Focus:**
+  SOC Analyst | Blue Team | OT/ICS & IT Defense
 
 ---
 
 ## 🌐 Connectivity
 
 - **Web:** [https://xdrtwo.github.io/whoami/](https://w0m73.github.io/whoami/)
-- **Focus:** SOC Analyst | OT/ICS & IT Defense
 
 ---
 
