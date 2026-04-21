@@ -27,6 +27,7 @@
 ## 🧠 Terminal Output: /dev/brain
 
 Analista com experiência em triagem e investigação inicial de alertas em ambientes OT/ICS e IT.
+Atualmente explorando o uso de IA generativa para apoio em análise de segurança e automação de tarefas.
 
 ---
 
@@ -44,6 +45,7 @@ Analista com experiência em triagem e investigação inicial de alertas em ambi
 - Detection Engineering (SIGMA, MITRE ATT&CK)
 - SIEM-based log analysis and correlation
 - IT, OT/ICS network monitoring
+- Prompt Engineering aplicada à análise de segurança e automação
 
 ---
 
