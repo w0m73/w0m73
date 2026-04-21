@@ -26,7 +26,7 @@
 
 ## 🧠 Terminal Output: /dev/brain
 
-Analista com experiência em triagem e investigação inicial de alertas em ambientes OT/ICS e IT.
+Analista com experiência em triagem e investigação inicial de alertas em ambientes OT/ICS e IT. <br>
 Atualmente explorando o uso de IA generativa para apoio em análise de segurança e automação de tarefas.
 
 ---
